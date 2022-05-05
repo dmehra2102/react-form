@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "username": "Varun Bhatt",
+      "age": "27",
+      "address": "Rishikesh, India",
+      "Department": "Instructor",
+      "salary": "1100000",
+      "marital_status": "",
+      "id": 1
+    },
+    {
+      "username": "Prabhanjan Padhye",
+      "age": "26",
+      "address": "Pune, India",
+      "Department": "Instructor",
+      "salary": "1800000",
+      "marital_status": "",
+      "id": 2
+    },
+    {
+      "username": "Ankush Chimnani",
+      "age": "23",
+      "address": "Delhi, India",
+      "Department": "Instructor",
+      "salary": "1600000",
+      "marital_status": "",
+      "id": 3
+    },
+    {
+      "username": "Akshay",
+      "age": "28",
+      "address": "Varnashi",
+      "Department": "Instructor",
+      "salary": "1500000",
+      "marital_status": "on",
+      "id": 4
+    }
+  ]
+}
